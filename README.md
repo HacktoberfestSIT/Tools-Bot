@@ -13,7 +13,7 @@ Enter the name and then the username
 STEP 4:
 You will get a token to access the HTTP API. Copy the token paste at the time of deployment.
 
-##Click below deploy button to host it on heroku.<br></br>
+## Click below deploy button to host it on heroku.<br></br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ___
