@@ -1,0 +1,24 @@
+{
+    "name": "Tools Bot",
+    "description": "A simple shortcut tools boot in PHP",
+    "keywords": [
+        "Tool",
+        "Bot"
+    ],
+    "repository": "https://github.com/HacktoberfestSIT/Tools-Bot",
+    "env": {
+        "TOKEN": {
+            "description": "Your bot token, as a string."
+        },
+        "WELCOME_MSG" : {
+            "description" : "Welcome message."
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
